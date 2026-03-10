@@ -1,2 +1,2 @@
 # Javascript-Projects
-My Js Projects 
+Javscript Projects 
